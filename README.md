@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/jumperz-studio/design-workspace.png" alt="JumperZ Studio — Design workspace" width="700">
+  <img src="docs/images/jumperz-studio/overview.png" alt="JumperZ Studio — Design workspace" width="700">
 </p>
 
 # JumperZ Studio
