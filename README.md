@@ -25,4 +25,3 @@ Python · PySide6 (Qt6) · RP2040 · USB CDC · AutoCAD
 
 ## Status
 Final Year Project — full write-up and media coming soon.
-Source code is proprietary; available for review on request.
